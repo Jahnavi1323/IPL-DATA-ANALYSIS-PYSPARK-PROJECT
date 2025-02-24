@@ -1,0 +1,498 @@
+player_sk,player_id,player_name,dob,batting_hand,bowling_skill,country_name
+0,1,SC Ganguly,null,Left-hand bat,Right-arm medium,India
+1,2,BB McCullum,null,Right-hand bat,Right-arm medium,New Zealand
+2,3,RT Ponting,null,Right-hand bat,Right-arm medium,Australia
+3,4,DJ Hussey,null,Right-hand bat,Right-arm offbreak,Australia
+4,5,Mohammad Hafeez,null,Right-hand bat,Right-arm offbreak,Pakistan
+5,6,R Dravid,null,Right-hand bat,Right-arm offbreak,India
+6,7,W Jaffer,null,Right-hand bat,Right-arm offbreak,India
+7,8,V Kohli,null,Right-hand bat,Right-arm medium,India
+8,9,JH Kallis,null,Right-hand bat,Right-arm fast-medium,South Africa
+9,10,CL White,null,Right-hand bat,Legbreak googly,Australia
+10,11,MV Boucher,null,Right-hand bat,Right-arm medium,South Africa
+11,12,B Akhil,null,Right-hand bat,Right-arm medium-fast,India
+12,13,AA Noffke,null,Right-hand bat,Right-arm fast-medium,Australia
+13,14,P Kumar,null,Right-hand bat,Right-arm medium,India
+14,15,Z Khan,null,Right-hand bat,Left-arm fast-medium,India
+15,16,SB Joshi,null,Left-hand bat,Slow left-arm orthodox,India
+16,17,PA Patel,null,Left-hand bat,N/A,India
+17,18,ML Hayden,null,Left-hand bat,Right-arm medium,Australia
+18,19,MEK Hussey,null,Left-hand bat,Right-arm medium,Australia
+19,20,MS Dhoni,null,Right-hand bat,Right-arm medium,India
+20,21,SK Raina,null,Left-hand bat,Right-arm offbreak,India
+21,22,JDP Oram,null,Left-hand bat,Right-arm fast-medium,New Zealand
+22,23,S Badrinath,null,Right-hand bat,Right-arm offbreak,India
+23,24,K Goel,null,Left-hand bat,Right-arm offbreak,India
+24,25,JR Hopes,null,Right-hand bat,Right-arm medium,Australia
+25,26,KC Sangakkara,null,Left-hand bat,Right-arm offbreak,Sri Lanka
+26,27,Yuvraj Singh,null,Left-hand bat,Slow left-arm orthodox,India
+27,28,SM Katich,null,Left-hand bat,Slow left-arm chinaman,Australia
+28,29,IK Pathan,null,Left-hand bat,Left-arm medium-fast,India
+29,30,T Kohli,null,Right-hand bat,Right-arm medium,India
+30,31,YK Pathan,null,Right-hand bat,Right-arm offbreak,India
+31,32,SR Watson,null,Right-hand bat,Right-arm fast-medium,Australia
+32,33,M Kaif,null,Right-hand bat,Right-arm offbreak,India
+33,34,DS Lehmann,null,Left-hand bat,Slow left-arm orthodox,Australia
+34,35,RA Jadeja,null,Left-hand bat,Slow left-arm orthodox,India
+35,36,M Rawat,null,Right-hand bat,N/A,India
+36,37,D Salunkhe,null,Right-hand bat,Legbreak,India
+37,38,SK Warne,null,Right-hand bat,Legbreak googly,Australia
+38,39,SK Trivedi,null,Right-hand bat,Right-arm medium,India
+39,40,G Gambhir,null,Left-hand bat,Legbreak,India
+40,41,V Sehwag,null,Right-hand bat,Right-arm offbreak,India
+41,42,S Dhawan,null,Left-hand bat,Right-arm offbreak,India
+42,43,L Ronchi,null,Right-hand bat,N/A,Australia
+43,44,ST Jayasuriya,null,Left-hand bat,Slow left-arm orthodox,Sri Lanka
+44,45,DJ Thornely,null,Right-hand bat,Right-arm medium,Australia
+45,46,RV Uthappa,null,Right-hand bat,Right-arm medium,India
+46,47,PR Shah,null,Right-hand bat,N/A,India
+47,48,AM Nayar,null,Left-hand bat,Right-arm medium,India
+48,49,SM Pollock,null,Right-hand bat,Right-arm fast-medium,South Africa
+49,50,Harbhajan Singh,null,Right-hand bat,Right-arm offbreak,India
+50,51,S Chanderpaul,null,Left-hand bat,Legbreak,West Indies
+51,52,LRPL Taylor,null,Right-hand bat,Right-arm offbreak,New Zealand
+52,53,AC Gilchrist,null,Left-hand bat,Right-arm offbreak,Australia
+53,54,Y Venugopal Rao,null,Right-hand bat,Right-arm offbreak,India
+54,55,VVS Laxman,null,Right-hand bat,Right-arm offbreak,India
+55,56,A Symonds,null,Right-hand bat,Right-arm offbreak,Australia
+56,57,RG Sharma,null,Right-hand bat,Right-arm offbreak,India
+57,58,SB Styris,null,Right-hand bat,Right-arm medium,New Zealand
+58,59,SB Bangar,null,Right-hand bat,Right-arm medium-fast,India
+59,60,WPUJC Vaas,null,Left-hand bat,Left-arm fast-medium,Sri Lanka
+60,61,RP Singh,null,Right-hand bat,Left-arm fast-medium,India
+61,62,WP Saha,null,Right-hand bat,N/A,India
+62,63,LR Shukla,null,Right-hand bat,Right-arm medium,India
+63,64,DPMD Jayawardene,null,Right-hand bat,Right-arm medium,Sri Lanka
+64,65,S Sohal,null,Right-hand bat,Legbreak,India
+65,66,B Lee,null,Right-hand bat,Right-arm fast,Australia
+66,67,PP Chawla,null,Left-hand bat,Legbreak,India
+67,68,WA Mota,null,Right-hand bat,Right-arm medium,India
+68,69,Kamran Akmal,null,Right-hand bat,N/A,Pakistan
+69,70,Shahid Afridi,null,Right-hand bat,Legbreak googly,Pakistan
+70,71,DJ Bravo,null,Right-hand bat,Right-arm medium-fast,West Indies
+71,72,MA Khote,null,Right-hand bat,Right-arm medium,India
+72,73,A Nehra,null,Right-hand bat,Left-arm medium-fast,India
+73,74,GC Smith,null,Left-hand bat,Right-arm offbreak,South Africa
+74,75,Pankaj Singh,null,Right-hand bat,Right-arm medium-fast,India
+75,76,RR Sarwan,null,Right-hand bat,Legbreak,West Indies
+76,77,S Sreesanth,null,Right-hand bat,Right-arm fast-medium,India
+77,78,VRV Singh,null,Right-hand bat,Right-arm medium-fast,India
+78,79,SS Tiwary,null,Left-hand bat,N/A,India
+79,80,DS Kulkarni,null,Right-hand bat,Right-arm medium,India
+80,81,R Vinay Kumar,null,Right-hand bat,Right-arm medium,India
+81,82,AB Agarkar,null,Right-hand bat,Right-arm fast,India
+82,83,M Kartik,null,Left-hand bat,Slow left-arm orthodox,India
+83,84,I Sharma,null,Right-hand bat,Right-arm fast-medium,India
+84,85,AM Rahane,null,Right-hand bat,Right-arm medium,India
+85,86,Shoaib Malik,null,Right-hand bat,Right-arm offbreak,Pakistan
+86,87,MK Tiwary,null,Right-hand bat,Legbreak googly,India
+87,88,KD Karthik,null,Right-hand bat,N/A,India
+88,89,R Bhatia,null,Right-hand bat,Right-arm medium-fast,India
+89,90,MF Maharoof,null,Right-hand bat,Right-arm fast-medium,India
+90,91,VY Mahesh,null,Right-hand bat,Right-arm medium-fast,India
+91,92,TM Srivastava,null,Left-hand bat,Right-arm medium,India
+92,93,B Chipli,null,Right-hand bat,Right-arm medium,India
+93,94,DW Steyn,null,Right-hand bat,Right-arm fast,South Africa
+94,95,DB Das,null,Right-hand bat,Legbreak googly,India
+95,96,MK Pandey,null,Right-hand bat,Right-arm medium,India
+96,97,HH Gibbs,null,Right-hand bat,Right-arm bowler,South Africa
+97,98,DNT Zoysa,null,Left-hand bat,Left-arm fast-medium,Sri Lanka
+98,99,D Kalyankrishna,null,Right-hand bat,Right-arm medium-fast,India
+99,100,SE Marsh,null,Left-hand bat,Slow left-arm orthodox,Australia
+100,101,SA Asnodkar,null,Right-hand bat,Right-arm offbreak,India
+101,102,Sohail Tanvir,null,Left-hand bat,Left-arm medium-fast,Pakistan
+102,103,Salman Butt,null,Left-hand bat,Right-arm offbreak,Pakistan
+103,104,BJ Hodge,null,Right-hand bat,Right-arm offbreak,Australia
+104,105,Umar Gul,null,Right-hand bat,Right-arm fast-medium,Pakistan
+105,106,AB Dinda,null,Right-hand bat,Right-arm medium-fast,India
+106,107,SP Fleming,null,Left-hand bat,N/A,New Zealand
+107,108,S Vidyut,null,Left-hand bat,Slow left-arm orthodox,India
+108,109,JA Morkel,null,Left-hand bat,Right-arm medium-fast,South Africa
+109,110,AB de Villiers,null,Right-hand bat,Right-arm medium,South Africa
+110,111,LPC Silva,null,Right-hand bat,Legbreak,Sri Lanka
+111,112,DB Ravi Teja,null,Right-hand bat,Legbreak googly,India
+112,113,Misbah-ul-Haq,null,Right-hand bat,Legbreak,Pakistan
+113,114,YV Takawale,null,Right-hand bat,N/A,India
+114,115,RR Raje,null,Right-hand bat,Right-arm fast-medium,India
+115,116,PJ Sangwan,null,Right-hand bat,Left-arm medium,India
+116,117,Mohammad Asif,null,Left-hand bat,Right-arm fast-medium,Pakistan
+117,118,GD McGrath,null,Right-hand bat,Right-arm fast-medium,Australia
+118,119,Joginder Sharma,null,Right-hand bat,Right-arm fast-medium,India
+119,120,MS Gony,null,Right-hand bat,Right-arm medium,India
+120,121,M Muralitharan,null,Right-hand bat,Right-arm offbreak,Sri Lanka
+121,122,M Ntini,null,Right-hand bat,Right-arm fast,South Africa
+122,123,DT Patil,null,Right-hand bat,N/A,India
+123,124,A Kumble,null,Right-hand bat,Legbreak googly,India
+124,125,S Anirudha,null,Right-hand bat,N/A,India
+125,126,MM Patel,null,Right-hand bat,Right-arm medium-fast,India
+126,127,CK Kapugedera,null,Right-hand bat,Right-arm medium,Sri Lanka
+127,128,A Chopra,null,Right-hand bat,Right-arm offbreak,India
+128,129,T Taibu,null,Right-hand bat,Right-arm medium,Zimbabwea
+129,130,J Arunkumar,null,Right-hand bat,Right-arm offbreak,India
+130,131,PP Ojha,null,Left-hand bat,Slow left-arm orthodox,India
+131,132,SP Goswami,null,Left-hand bat,N/A,India
+132,133,SR Tendulkar,null,Right-hand bat,Right-arm offbreak,India
+133,134,U Kaul,null,Left-hand bat,N/A,India
+134,135,TM Dilshan,null,Right-hand bat,Right-arm offbreak,Sri Lanka
+135,136,A Mishra,null,Right-hand bat,Legbreak,India
+136,137,AD Mascarenhas,null,Right-hand bat,Right-arm fast-medium,England
+137,138,NK Patel,null,Left-hand bat,N/A,India
+138,139,LA Pomersbach,null,Left-hand bat,Right-arm offbreak,Australia
+139,140,Iqbal Abdulla,null,Left-hand bat,Slow left-arm orthodox,India
+140,141,Younis Khan,null,Right-hand bat,Right-arm medium,Pakistan
+141,142,PM Sarvesh Kumar,null,Right-hand bat,Right-arm medium,India
+142,143,DP Vijaykumar,null,Right-hand bat,Right-arm medium,India
+143,144,Shoaib Akhtar,null,Right-hand bat,Right-arm fast,Pakistan
+144,145,Abdur Razzak,null,Left-hand bat,Slow left-arm orthodox,Bangladesh
+145,146,H Das,null,Right-hand bat,N/A,India
+146,147,DR Smith,null,Right-hand bat,Right-arm medium,West Indies
+147,148,SD Chitnis,null,Right-hand bat,Right-arm offbreak,India
+148,149,CRD Fernando,null,Right-hand bat,Right-arm fast-medium,Sri Lanka
+149,150,VS Yeligati,null,Right-hand bat,Right-arm offbreak,India
+150,151,L Balaji,null,Right-hand bat,Right-arm medium-fast,India
+151,152,A Mukund,null,Left-hand bat,Legbreak googly,India
+152,153,RR Powar,null,Right-hand bat,Right-arm offbreak,India
+153,154,JP Duminy,null,Left-hand bat,Right-arm offbreak,South Africa
+154,155,A Flintoff,null,Right-hand bat,Right-arm fast-medium,England
+155,156,T Thushara,null,Left-hand bat,Left-arm fast-medium,Sri Lanka
+156,157,JD Ryder,null,Left-hand bat,Right-arm medium,New Zealand
+157,158,KP Pietersen,null,Right-hand bat,Right-arm offbreak,South Africa
+158,159,T Henderson,null,Right-hand bat,Right-arm fast-medium,South Africa
+159,160,Kamran Khan,null,Left-hand bat,Left-arm medium-fast,India
+160,161,RS Bopara,null,Right-hand bat,Right-arm medium,England
+161,162,CH Gayle,null,Left-hand bat,Right-arm offbreak,West Indies
+162,163,MC Henriques,null,Right-hand bat,Right-arm fast-medium,Australia
+163,164,R Bishnoi,null,Right-hand bat,Right-arm medium-fast,India
+164,165,FH Edwards,null,Right-hand bat,Right-arm fast,West Indies
+165,166,KV Sharma,null,Left-hand bat,Legbreak googly,India
+166,167,PC Valthaty,null,Right-hand bat,Right-arm medium,India
+167,168,RJ Quiney,null,Left-hand bat,Right-arm medium,Australia
+168,169,AS Raut,null,Right-hand bat,Legbreak googly,India
+169,170,Yashpal Singh,null,Right-hand bat,Right-arm medium,India
+170,171,M Manhas,null,Right-hand bat,Right-arm offbreak,India
+171,172,AA Bilakhia,null,Right-hand bat,Right-arm medium,India
+172,173,AN Ghosh,null,Right-hand bat,Right-arm medium,India
+173,174,BAW Mendis,null,Right-hand bat,Right-arm offbreak,Sri Lanka
+174,175,DL Vettori,null,Left-hand bat,Slow left-arm orthodox,New Zealand
+175,176,MN van Wyk,null,Right-hand bat,Slow left-arm orthodox,South Africa
+176,177,RE van der Merwe,null,Right-hand bat,Slow left-arm orthodox,South Africa
+177,178,TL Suman,null,Right-hand bat,Right-arm offbreak,India
+178,179,Shoaib Ahmed,null,Right-hand bat,Right-arm fast-medium,Pakistan
+179,180,GR Napier,null,Right-hand bat,Right-arm medium,England
+180,181,KP Appanna,null,Right-hand bat,Slow left-arm orthodox,India
+181,182,LA Carseldine,null,Left-hand bat,Left-arm medium,Australia
+182,183,NV Ojha,null,Right-hand bat,N/A,India
+183,184,SM Harwood,null,Right-hand bat,Right-arm fast-medium,Australia
+184,185,M Vijay,null,Right-hand bat,Right-arm offbreak,India
+185,186,SB Jakati,null,Left-hand bat,Slow left-arm orthodox,India
+186,187,DA Warner,null,Left-hand bat,Legbreak,Australia
+187,188,RJ Harris,null,Right-hand bat,Right-arm fast,Australia
+188,189,D du Preez,null,Right-hand bat,Right-arm fast-medium,South Africa
+189,190,M Morkel,null,Left-hand bat,Right-arm fast,South Africa
+190,191,AD Mathews,null,Right-hand bat,Right-arm fast-medium,Sri Lanka
+191,192,J Botha,null,Right-hand bat,Right-arm offbreak,South Africa
+192,193,C Nanda,null,Right-hand bat,Legbreak,India
+193,194,SL Malinga,null,Right-hand bat,Right-arm fast,Sri Lanka
+194,195,Mashrafe Mortaza,null,Right-hand bat,Right-arm fast-medium,Bangladesh
+195,196,A Singh,null,Right-hand bat,Right-arm medium-fast,India
+196,197,GJ Bailey,null,Right-hand bat,Right-arm medium,Australia
+197,198,AB McDonald,null,Right-hand bat,Right-arm fast-medium,Australia
+198,199,Y Nagar,null,Right-hand bat,Right-arm offbreak,India
+199,200,SS Shaikh,null,Right-hand bat,Right-arm medium,India
+200,201,R Ashwin,null,Right-hand bat,Right-arm offbreak,India
+201,202,Mohammad Ashraful,null,Right-hand bat,Right-arm offbreak,Bangladesh
+202,203,CA Pujara,null,Right-hand bat,Legbreak,India
+203,204,OA Shah,null,Right-hand bat,Right-arm offbreak,England
+204,205,Anirudh Singh,null,Left-hand bat,Right-arm medium,India
+205,206,Jaskaran Singh,null,Right-hand bat,Right-arm medium,India
+206,207,AP Tare,null,Right-hand bat,N/A,India
+207,208,AT Rayudu,null,Right-hand bat,Right-arm offbreak,India
+208,209,R Sathish,null,Right-hand bat,Right-arm medium,India
+209,210,R McLaren,null,Left-hand bat,Right-arm medium-fast,South Africa
+210,211,AA Jhunjhunwala,null,Right-hand bat,Right-arm offbreak,India
+211,212,P Dogra,null,Right-hand bat,Legbreak,India
+212,213,A Uniyal,null,Left-hand bat,Left-arm medium,India
+213,214,MS Bisla,null,Right-hand bat,N/A,India
+214,215,YA Abdulla,null,Left-hand bat,Left-arm fast-medium,India
+215,216,EJG Morgan,null,Left-hand bat,Right-arm medium,England
+216,217,JM Kemp,null,Right-hand bat,Right-arm fast-medium,South Africa
+217,218,S Tyagi,null,Right-hand bat,Right-arm medium,India
+218,219,RS Gavaskar,null,Left-hand bat,Slow left-arm orthodox,India
+219,220,SE Bond,null,Right-hand bat,Right-arm fast,New Zealand
+220,221,KA Pollard,null,Right-hand bat,Right-arm medium-fast,West Indies
+221,222,S Ladda,null,Right-hand bat,Legbreak,India
+222,223,DP Nannes,null,Right-hand bat,Left-arm fast,Australia
+223,224,MJ Lumb,null,Left-hand bat,Right-arm medium,England
+224,225,DR Martyn,null,Right-hand bat,Right-arm medium,Australia
+225,226,S Narwal,null,Left-hand bat,Right-arm medium,India
+226,227,AB Barath,null,Right-hand bat,Right-arm offbreak,India
+227,228,Bipul Sharma,null,Left-hand bat,Slow left-arm orthodox,India
+228,229,FY Fazal,null,Left-hand bat,Right-arm medium,India
+229,230,AC Voges,null,Right-hand bat,Slow left-arm orthodox,Australia
+230,231,MD Mishra,null,Right-hand bat,Right-arm offbreak,India
+231,232,UT Yadav,null,Right-hand bat,Right-arm fast-medium,India
+232,233,J Theron,null,Right-hand bat,Right-arm medium-fast,South Africa
+233,234,SJ Srivastava,null,Right-hand bat,Left-arm fast-medium,India
+234,235,R Sharma,null,Right-hand bat,Right-arm offbreak,India
+235,236,Mandeep Singh,null,Right-hand bat,Right-arm medium,India
+236,237,KM Jadhav,null,Right-hand bat,Right-arm offbreak,India
+237,238,SW Tait,null,Right-hand bat,Right-arm fast,Australia
+238,239,KB Arun Karthik,null,Right-hand bat,Legbreak googly,India
+239,240,KAJ Roach,null,Right-hand bat,Right-arm fast,West Indies
+240,241,PD Collingwood,null,Right-hand bat,Right-arm medium,England
+241,242,CK Langeveldt,null,Right-hand bat,Right-arm fast-medium,England
+242,243,VS Malik,null,Right-hand bat,Right-arm medium,India
+243,244,A Mithun,null,Right-hand bat,Right-arm medium,India
+244,245,AP Dole,null,Right-hand bat,Right-arm medium-fast,India
+245,246,AN Ahmed,null,Right-hand bat,Right-arm medium-fast,India
+246,247,RS Sodhi,null,Right-hand bat,Right-arm medium,India
+247,248,DE Bollinger,null,Left-hand bat,Left-arm fast-medium,Australia
+248,249,S Sriram,null,Left-hand bat,Slow left-arm orthodox,India
+249,250,B Sumanth,null,Right-hand bat,Right-arm medium-fast,India
+250,251,C Madan,null,Right-hand bat,N/A,India
+251,252,AG Paunikar,null,Right-hand bat,N/A,India
+252,253,MR Marsh,null,Right-hand bat,Right-arm medium,Australia
+253,254,AJ Finch,null,Right-hand bat,Slow left-arm orthodox,Australia
+254,255,STR Binny,null,Right-hand bat,Right-arm medium,India
+255,256,Harmeet Singh,null,Left-hand bat,Slow left-arm orthodox,India
+256,257,IR Jaggi,null,Right-hand bat,Legbreak googly,India
+257,258,DT Christian,null,Right-hand bat,Right-arm fast-medium,Australia
+258,259,RV Gomez,null,Right-hand bat,Right-arm medium,India
+259,260,MA Agarwal,null,Right-hand bat,N/A,India
+260,261,AUK Pathan,null,Right-hand bat,Right-arm medium,India
+261,262,UBT Chand,null,Right-hand bat,Right-arm offbreak,India
+262,263,DJ Jacobs,null,Right-hand bat,Right-arm medium,South Africa
+263,264,Sunny Singh,null,Right-hand bat,Right-arm medium-fast,India
+264,265,NJ Rimmington,null,Right-hand bat,Right-arm fast-medium,Australia
+265,266,AL Menaria,null,Left-hand bat,Slow left-arm orthodox,India
+266,267,WD Parnell,null,Left-hand bat,Left-arm medium-fast,South Africa
+267,268,JJ van der Wath,null,Right-hand bat,Right-arm medium-fast,South Africa
+268,269,R Ninan,null,Right-hand bat,Right-arm offbreak,India
+269,270,S Aravind,null,Left-hand bat,Left-arm medium-fast,India
+270,271,MS Wade,null,Left-hand bat,Right-arm medium,Australia
+271,272,TD Paine,null,Right-hand bat,Right-arm medium,Australia
+272,273,SB Wagh,null,Left-hand bat,Left-arm medium-fast,India
+273,274,AC Thomas,null,Right-hand bat,Right-arm fast-medium,England
+274,275,JEC Franklin,null,Left-hand bat,Left-arm medium,New Zealand
+275,276,Shakib Al Hasan,null,Left-hand bat,Slow left-arm orthodox,Bangladesh
+276,277,DH Yagnik,null,Left-hand bat,N/A,India
+277,278,S Randiv,null,Right-hand bat,Right-arm offbreak,Sri Lanka
+278,279,BJ Haddin,null,Right-hand bat,N/A,Australia
+279,280,NLTC Perera,null,Left-hand bat,Right-arm medium-fast,Sri Lanka
+280,281,NL McCullum,null,Right-hand bat,Right-arm offbreak,New Zealand
+281,282,JE Taylor,null,Right-hand bat,Right-arm fast,New Zealand
+282,283,J Syed Mohammad,null,Left-hand bat,Slow left-arm orthodox,India
+283,284,RN ten Doeschate,null,Right-hand bat,Right-arm medium-fast,Netherlands
+284,285,TR Birt,null,Left-hand bat,Right-arm medium,Australia
+285,286,AG Murtaza,null,Left-hand bat,Slow left-arm orthodox,India
+286,287,Harpreet Singh,null,Left-hand bat,Right-arm medium,India
+287,288,M Klinger,null,Right-hand bat,N/A,Australia
+288,289,AC Blizzard,null,Left-hand bat,Left-arm medium,Australia
+289,290,I Malhotra,null,Right-hand bat,Right-arm medium-fast,India
+290,291,L Ablish,null,Right-hand bat,Right-arm medium-fast,India
+291,292,CA Ingram,null,Left-hand bat,Legbreak,South Africa
+292,293,S Nadeem,null,Right-hand bat,Slow left-arm orthodox,India
+293,294,P Parameswaran,null,Right-hand bat,Left-arm medium,India
+294,295,CJ Ferguson,null,Right-hand bat,Right-arm medium,Australia
+295,296,VR Aaron,null,Right-hand bat,Right-arm fast,India
+296,297,AA Chavan,null,Left-hand bat,Slow left-arm orthodox,India
+297,298,ND Doshi,null,Right-hand bat,Slow left-arm orthodox,India
+298,299,B Kumar,null,Right-hand bat,Right-arm medium,India
+299,300,Y Gnaneswara Rao,null,Right-hand bat,Right-arm medium,India
+300,301,S Rana,null,Right-hand bat,Right-arm medium-fast,India
+301,302,BA Bhatt,null,Left-hand bat,Slow left-arm orthodox,India
+302,303,F du Plessis,null,Right-hand bat,Legbreak,South Africa
+303,304,RE Levi,null,Right-hand bat,Right-arm medium,South Africa
+304,305,GJ Maxwell,null,Right-hand bat,Right-arm offbreak,Australia
+305,306,SPD Smith,null,Right-hand bat,Legbreak googly,India
+306,307,MN Samuels,null,Right-hand bat,Right-arm offbreak,West Indies
+307,308,SA Yadav,null,Right-hand bat,Right-arm offbreak,India
+308,309,KK Cooper,null,Right-hand bat,Right-arm medium,West Indies
+309,310,JP Faulkner,null,Right-hand bat,Left-arm fast-medium,Australia
+310,311,HV Patel,null,Right-hand bat,Right-arm medium,India
+311,312,DAJ Bracewell,null,Right-hand bat,Right-arm fast-medium,New Zealand
+312,313,DJ Harris,null,Right-hand bat,Right-arm medium,Australia
+313,314,Ankit Sharma,null,Left-hand bat,Slow left-arm orthodox,India
+314,315,SP Narine,null,Left-hand bat,Right-arm offbreak,West Indies
+315,316,GB Hogg,null,Left-hand bat,Slow left-arm chinaman,Australia
+316,317,RR Bhatkal,null,Right-hand bat,Right-arm medium,India
+317,318,CJ McKay,null,Right-hand bat,Right-arm fast-medium,Australia
+318,319,N Saini,null,Right-hand bat,N/A,India
+319,320,DA Miller,null,Left-hand bat,Right-arm offbreak,South Africa
+320,321,Azhar Mahmood,null,Right-hand bat,Right-arm fast-medium,Pakistan
+321,322,P Negi,null,Left-hand bat,Slow left-arm orthodox,India
+322,323,RJ Peterson,null,Left-hand bat,Slow left-arm orthodox,South Africa
+323,324,KMDN Kulasekara,null,Right-hand bat,Right-arm fast-medium,Sri Lanka
+324,325,A Ashish Reddy,null,Right-hand bat,Right-arm medium,India
+325,326,V Pratap Singh,null,Right-hand bat,Right-arm medium,India
+326,327,BB Samantray,null,Right-hand bat,N/A,India
+327,328,MJ Clarke,null,Right-hand bat,Slow left-arm orthodox,Australia
+328,329,Gurkeerat Singh,null,Right-hand bat,Right-arm offbreak,India
+329,330,AP Majumdar,null,Right-hand bat,Legbreak googly,India
+330,331,PA Reddy,null,Right-hand bat,Legbreak,India
+331,332,K Upadhyay,null,Right-hand bat,Right-arm medium,India
+332,333,P Awana,null,Right-hand bat,Right-arm medium,India
+333,334,AD Russell,null,Right-hand bat,Right-arm fast,West Indies
+334,335,A Chandila,null,Right-hand bat,Right-arm offbreak,India
+335,336,CA Lynn,null,Right-hand bat,Slow left-arm orthodox,Australia
+336,337,Sunny Gupta,null,Right-hand bat,Right-arm offbreak,India
+337,338,MC Juneja,null,Right-hand bat,Right-arm offbreak,India
+338,339,KK Nair,null,Right-hand bat,Right-arm offbreak,India
+339,340,GH Vihari,null,Right-hand bat,Right-arm offbreak,India
+340,341,MDKJ Perera,null,Left-hand bat,N/A,Sri Lanka
+341,342,R Shukla,null,Right-hand bat,Right-arm medium,India
+342,343,B Laughlin,null,Right-hand bat,Right-arm fast-medium,Australia
+343,344,AS Rajpoot,null,Right-hand bat,Right-arm medium,India
+344,345,M Vohra,null,Right-hand bat,Right-arm medium,India
+345,346,JD Unadkat,null,Right-hand bat,Left-arm medium,India
+346,347,Mohammed Shami,null,Right-hand bat,Right-arm fast-medium,India
+347,348,BMAJ Mendis,null,Left-hand bat,Legbreak,Sri Lanka
+348,349,R Rampaul,null,Left-hand bat,Right-arm fast-medium,West Indies
+349,350,CH Morris,null,Right-hand bat,Right-arm fast-medium,South Africa
+350,351,SV Samson,null,Right-hand bat,N/A,India
+351,352,SMSM Senanayake,null,Right-hand bat,Right-arm offbreak,Sri Lanka
+352,353,BJ Rohrer,null,Left-hand bat,N/A,Australia
+353,354,KL Rahul,null,Right-hand bat,N/A,India
+354,355,Q de Kock,null,Left-hand bat,N/A,South Africa
+355,356,R Dhawan,null,Right-hand bat,Right-arm medium-fast,India
+356,357,MG Johnson,null,Left-hand bat,Left-arm fast,Australia
+357,358,LJ Wright,null,Right-hand bat,Right-arm medium-fast,England
+358,359,IC Pandey,null,Right-hand bat,Right-arm medium,India
+359,360,CM Gautam,null,Right-hand bat,N/A,India
+360,361,X Thalaivan Sargunam,null,Right-hand bat,Right-arm offbreak,India
+361,362,DJG Sammy,null,Right-hand bat,Right-arm medium-fast,West Indies
+362,363,KW Richardson,null,Right-hand bat,Right-arm fast-medium,Australia
+363,364,MM Sharma,null,Right-hand bat,Right-arm medium,India
+364,365,UA Birla,null,Right-hand bat,Right-arm medium,India
+365,366,Parvez Rasool,null,Right-hand bat,Right-arm offbreak,India
+366,367,Sandeep Sharma,null,Right-hand bat,Right-arm medium,India
+367,368,S Kaul,null,Right-hand bat,Right-arm medium,India
+368,369,Sachin Baby,null,Left-hand bat,Right-arm offbreak,India
+369,370,PV Tambe,null,Right-hand bat,Legbreak,India
+370,371,NM Coulter-Nile,null,Right-hand bat,Right-arm fast,Australia
+371,372,CJ Anderson,null,Left-hand bat,Left-arm medium-fast,New Zealand
+372,373,NJ Maddinson,null,Left-hand bat,Slow left-arm orthodox,Australia
+373,374,AR Patel,null,Left-hand bat,Slow left-arm orthodox,India
+374,375,JJ Bumrah,null,Right-hand bat,Right-arm medium,India
+375,376,JDS Neesham,null,Left-hand bat,Right-arm medium,New Zealand
+376,377,TG Southee,null,Right-hand bat,Right-arm medium-fast,New Zealand
+377,378,MA Starc,null,Left-hand bat,Left-arm fast,Australia
+378,379,BR Dunk,null,Left-hand bat,N/A,Australia
+379,380,RR Rossouw,null,Left-hand bat,Right-arm offbreak,South Africa
+380,381,Shivam Sharma,null,Right-hand bat,Right-arm offbreak,India
+381,382,YS Chahal,null,Right-hand bat,Legbreak googly,India
+382,383,LMP Simmons,null,Right-hand bat,Right-arm medium-fast,West Indies
+383,384,VH Zol,null,Left-hand bat,Right-arm offbreak,India
+384,385,BCJ Cutting,null,Right-hand bat,Right-arm fast-medium,Australia
+385,386,Imran Tahir,null,Right-hand bat,Legbreak googly,India
+386,387,BE Hendricks,null,Left-hand bat,Left-arm fast-medium,South Africa
+387,388,S Gopal,null,Right-hand bat,Legbreak,India
+388,389,M de Lange,null,Right-hand bat,Right-arm fast,South Africa
+389,390,R Tewatia,null,Left-hand bat,Legbreak,India
+390,391,JO Holder,null,Right-hand bat,Right-arm medium-fast,West Indies
+391,392,Karanveer Singh,null,Right-hand bat,Legbreak googly,India
+392,393,SS Iyer,null,Right-hand bat,Legbreak googly,India
+393,394,DJ Hooda,null,Right-hand bat,Right-arm offbreak,India
+394,395,Anureet Singh,null,Right-hand bat,Right-arm medium,India
+395,396,KS Williamson,null,Right-hand bat,Right-arm offbreak,New Zealand
+396,397,SA Abbott,null,Right-hand bat,Right-arm fast-medium,New Zealand
+397,398,J Suchith,null,Left-hand bat,Slow left-arm orthodox,India
+398,399,RG More,null,Right-hand bat,Right-arm medium,India
+399,400,HH Pandya,null,Right-hand bat,Right-arm medium-fast,India
+400,401,D Wiese,null,Right-hand bat,Right-arm medium-fast,South Africa
+401,402,SN Khan,null,Right-hand bat,Legbreak,India
+402,403,MJ McClenaghan,null,Left-hand bat,Left-arm fast-medium,New Zealand
+403,404,DJ Muthuswami,null,Right-hand bat,Right-arm medium,India
+404,405,PJ Cummins,null,Right-hand bat,Right-arm fast,Australia
+405,406,SN Thakur,null,Right-hand bat,Right-arm medium,India
+406,407,JC Buttler,null,Right-hand bat,N/A,England
+407,408,CR Brathwaite,null,Right-hand bat,Right-arm fast-medium,West Indies
+408,409,MP Stoinis,null,Right-hand bat,Right-arm medium,Australia
+409,410,Ishan Kishan,null,Left-hand bat,N/A,India
+410,411,C Munro,null,Left-hand bat,Right-arm medium-fast,New Zealand
+411,412,P Sahu,null,Right-hand bat,Legbreak googly,India
+412,413,KH Pandya,null,Left-hand bat,Slow left-arm orthodox,India
+413,414,AD Nath,null,Right-hand bat,Right-arm medium-fast,India
+414,415,MJ Guptill,null,Right-hand bat,Right-arm offbreak,New Zealand
+415,416,KJ Abbott,null,Right-hand bat,Right-arm fast-medium,South Africa
+416,417,TM Head,null,Left-hand bat,Right-arm offbreak,Australia
+417,418,M Ashwin,null,Right-hand bat,Legbreak googly,India
+418,419,NS Naik,null,Right-hand bat,N/A,India
+419,420,RR Pant,null,Left-hand bat,N/A,India
+420,421,SW Billings,null,Right-hand bat,N/A,England
+421,422,KC Cariappa,null,Right-hand bat,Legbreak,India
+422,423,PSP Handscomb,null,Right-hand bat,N/A,Australia
+423,424,Swapnil Singh,null,Right-hand bat,Slow left-arm orthodox,India
+424,425,J Yadav,null,Right-hand bat,Right-arm offbreak,India
+425,426,UT Khawaja,null,Left-hand bat,Right-arm medium,Australia
+426,427,HM Amla,null,Right-hand bat,Right-arm offbreak,South Africa
+427,428,F Behardien,null,Right-hand bat,Right-arm fast-medium,South Africa
+428,429,BB Sran,null,Left-hand bat,Left-arm medium,India
+429,430,A Zampa,null,Right-hand bat,Legbreak googly,Australia
+430,431,N Rana,null,Left-hand bat,Right-arm offbreak,India
+431,432,S Kaushik,null,Right-hand bat,Slow left-arm chinaman,India
+432,433,ER Dwivedi,null,Right-hand bat,N/A,India
+433,434,CJ Jordan,null,Right-hand bat,Right-arm fast-medium,England
+434,435,P Amarnath,null,Right-hand bat,Right-arm medium,India
+435,436,B Geeves,null,Right-hand bat,Right-arm fast-medium,Australia
+436,437,Gagandeep Singh,null,Right-hand bat,Right-arm medium-fast,India
+437,438,A Nel,null,Right-hand bat,Right-arm fast-medium,South Africa
+438,439,AM Salvi,null,Right-hand bat,Right-arm medium,India
+439,440,RR Bose,null,Right-hand bat,Right-arm fast-medium,India
+440,441,SS Sarkar,null,Right-hand bat,Right-arm medium,India
+441,442,RA Shaikh,null,Left-hand bat,Left-arm medium,India
+442,443,C Ganapathy,null,Right-hand bat,Right-arm medium,India
+443,444,MB Parmar,null,Right-hand bat,Right-arm offbreak,India
+444,445,AA Kazi,null,Left-hand bat,Slow left-arm orthodox,India
+445,446,Anand Rajan,null,Right-hand bat,Right-arm medium,India
+446,447,P Prasanth,null,Left-hand bat,Slow left-arm orthodox,India
+447,448,SS Mundhe,null,Right-hand bat,Right-arm medium,India
+448,449,RW Price,null,Right-hand bat,Slow left-arm orthodox,Zimbabwea
+449,450,TP Sudhindra,null,Left-hand bat,Right-arm fast,India
+450,451,BW Hilfenhaus,null,Right-hand bat,Right-arm fast-medium,Australia
+451,452,S Badree,null,Right-hand bat,Legbreak,West Indies
+452,453,P Suyal,null,Right-hand bat,Left-arm medium,India
+453,454,MG Neser,null,Right-hand bat,Right-arm medium,Australia
+454,455,V Shankar,null,Right-hand bat,Right-arm medium,India
+455,456,K Santokie,null,Left-hand bat,Left-arm medium,West Indies
+456,457,JW Hastings,null,Right-hand bat,Right-arm fast-medium,Australia
+457,458,TA Boult,null,Right-hand bat,Left-arm fast-medium,New Zealand
+458,459,GS Sandhu,null,Left-hand bat,Right-arm fast-medium,Australia
+459,460,Mustafizur Rahman,null,Left-hand bat,Left-arm fast-medium,Bangladesh
+460,461,AF Milne,null,Right-hand bat,Right-arm fast,New Zealand
+461,462,Kuldeep Yadav,null,Left-hand bat,Slow left-arm chinaman,India
+462,463,T Shamsi,null,Right-hand bat,Slow left-arm chinaman,South Africa
+463,464,SM Boland,null,Right-hand bat,Right-arm fast-medium,Australia
+464,465,DL Chahar,null,Right-hand bat,Right-arm medium,India
+465,466,P Dharmani,null,Right-hand bat,N/A,India
+466,467,RV Pawar,null,Left-hand bat,Slow left-arm orthodox,India
+467,468,KH Devdhar,null,Right-hand bat,N/A,India
+468,469,T Mishra,null,Right-hand bat,Right-arm fast-medium,India
+469,470,A Choudhary,null,Right-hand bat,Left-arm medium,India
+470,471,AJ Tye,null,Right-handed,Right-arm medium fast,Australia
+471,472,Ankit Soni,null,�Right-hand bat,�Legbreak,India
+472,473,AR Bawne,null,�Right-hand bat,Right-arm offbreak,India
+473,474,Avesh Khan,null,Right-hand bat,Right-arm medium-fast,India
+474,475,B Stanlake,null,Left-hand bat,Right-arm fast,Australia
+475,476,BA Stokes,null,Left-hand bat,Right-arm fast-medium,England
+476,477,Basil Thampi,null,Right-hand bat,�Right-arm fast-medium,India
+477,478,C de Grandhomme,null,Right-hand bat,Right-arm fast-medium,New Zealand
+478,479,CR Woakes,null,�Right-hand bat,Right-arm fast-medium,England
+479,480,DM Bravo,null,�Left-hand bat,Right-arm medium-fast,West Indies
+480,481,JJ Roy,null,�Right-hand bat,NULL,England
+481,482,K Rabada,null,�Left-hand bat,Right-arm fast,South Africa
+482,483,LH Ferguson,null,Right-hand bat,Right-arm fast,New Zealand
+483,484,MJ Henry,null,�Right-hand bat,Right-arm fast-medium,New Zealand
+484,485,Mohammad Nabi,null,�Right-hand bat,Right-arm offbreak,Afghanistan
+485,486,Mohammed Siraj,null,Right-hand bat,�Right-arm medium-fast,India
+486,487,NB Singh,null,Right-hand bat,Right-arm medium,India
+487,488,RA Tripathi,null,�Right-hand bat,Right-arm medium,India
+488,489,Rashid Khan,null,Right-hand bat,Legbreak googly,Afghanistan
+489,490,RD Chahar,null,Right-hand bat,Legbreak googly,India
+490,491,SP Jackson,null,Right-hand bat,NULL,India
+491,492,SS Agarwal,null,Right-hand bat,Legbreak googly,India
+492,493,T Natarajan,null,Left-hand bat,Left-arm medium,India
+493,494,Tejas Baroka,null,Right-hand bat,Legbreak googly,India
+494,495,TS Mills,null,Right-hand bat,�Left-arm fast,England
+495,496,Vishnu Vinod,null,Right-hand bat,NULL,India
+496,497,Washington Sundar,null,�Left-hand bat,�Right-arm offbreak,India
