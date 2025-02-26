@@ -10,7 +10,7 @@ This repository contains a Jupyter Notebook (`IPL_DATA_ANALYSIS_SPARK.ipynb`) th
 
 ## Technologies Used
 - Python (PySpark)
-- Jupyter Notebook
+- Databricks Notebook
 - Apache Spark
 - Pandas & Matplotlib for visualization
 
