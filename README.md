@@ -1,6 +1,6 @@
 # IPL Data Analysis using Apache Spark
 
-This repository contains a Jupyter Notebook (`IPL_DATA_ANALYSIS_SPARK.ipynb`) that performs comprehensive data analysis on Indian Premier League (IPL) cricket match data using Apache Spark. The notebook utilizes PySpark to process large datasets efficiently and extract valuable insights.
+This repository contains a Databricks Notebook (`IPL_DATA_ANALYSIS_SPARK.dbc`) that performs comprehensive data analysis on Indian Premier League (IPL) cricket match data using Apache Spark. The notebook utilizes PySpark to process large datasets efficiently and extract valuable insights.
 
 ## Features
 - **Data Preprocessing**: Cleansing and transforming raw IPL match data for analysis.
